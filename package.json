@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Mi primerito bot",
   "main": "bot.js",
-  "scripts":{"start": "node bot.js"},
+  "scripts": {
+    "start": "node bot.js"
+  },
   "author": "Danikileitor",
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
