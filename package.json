@@ -1,0 +1,13 @@
+{
+  "name": "DNK_BOT_RANDOM",
+  "version": "1.0.0",
+  "description": "Mi primerito bot",
+  "main": "bot.js",
+  "author": "Danikileitor",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.5.1",
+    "random-puppy": "^1.1.0",
+    "winston": "^3.2.1"
+  }
+}
