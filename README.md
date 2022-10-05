@@ -1,3 +1,3 @@
 # dnkbotrandom
-Random bot for discord\n
-node bot.js
+Random bot for discord
+- node bot.js
